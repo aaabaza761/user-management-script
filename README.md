@@ -26,4 +26,5 @@ The CSV file should have the following format:
 
 2. **Run the Script**:
    ```sh
+   chmod +x create_users_from_csv.sh
    sudo ./create_users_from_csv.sh
