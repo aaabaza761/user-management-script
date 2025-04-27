@@ -1,5 +1,4 @@
-# user-account-management
-Bash script for user account management, creating users from a CSV file, setting up home directories, and requesting password updates on first login
+
 # User Account Management Script
 
 This project contains a bash script for user account management. The script reads users from a CSV file, creates user accounts on the system, sets up home directories, assigns initial passwords, and forces password updates on first login.
@@ -9,7 +8,7 @@ This project contains a bash script for user account management. The script read
 - **create_users_from_csv.sh**: This script reads a CSV file (`employee.csv`) containing usernames and full names, creates user accounts with home directories, assigns random initial passwords, and logs the process.
 
 ## Script Usage
-
+ creation users from CSV file on the system with home directories , initial password and forces the user to update password in first login
 ### Prerequisites
 
 - Ensure the script is run with root privileges.
